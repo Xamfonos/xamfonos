@@ -1,0 +1,130 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin: 0;
+    background: linear-gradient(to bottom right, rgb(225, 234, 236), white);
+    border-radius: 30px;
+    border-right-color: #000000;
+}
+
+#sidebar{
+    border: 10px #ffffff solid;
+    background-color: #000000;
+    color: #ffffff;
+    float: left;
+    margin: auto;
+    width: 25%;
+    padding-bottom: 100px;
+    background: radial-gradient(circle, rgb(25, 33, 39), rgb(5, 67, 75));
+}
+
+#sidebar .passport{
+    width: 60%;
+    height: 60%;
+    margin-top: 10%;
+    margin-left: 20%;
+    border-radius: 70px;
+    position: relative;
+    overflow: hidden;
+}
+
+#sidebar .images{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    line-height: 0;
+    display: inline-block;
+}
+
+
+.container {
+    font-size: 14px;
+    font-weight: normal;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+
+.container span{
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: bold;
+}
+
+.container li{
+    list-style:circle;
+}
+
+
+.box1{
+    position: static;
+    width: 96%;
+    border: 2px #000000 solid;
+    color: #000000;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.box1 .image3{
+    width: 50px;
+    height: 50px;
+    }
+
+    .box1 span{
+        background-color: rgb(25, 33, 39);
+        color:#ffffff;
+        }
+
+.box2 th {
+    background-color: rgb(5, 67, 75);
+    width: 5%;
+    color: #ffffff;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.box1 p{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.box1  img{
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
+
+}
+.box2{
+    margin: ;
+    border: 20px;
+    text-align: left;
+}
+
+.box2 fieldset{
+    border: 2px #000000 solid; 
+}
+
+.box2 img{
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
+.box2 fieldset li{
+    list-style: circle;
+}
+
+.box2 span{
+background-color: rgb(25, 33, 39);
+color:#ffffff;
+}
+
+.box2 .image2{
+width: 50px;
+height: 50px;
+}
